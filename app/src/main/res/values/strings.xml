@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoginWithGoogle</string>
+
+    <string name="clientid">422651566088-a4fh477feh491nbt553uvkvkh9b40pk9.apps.googleusercontent.com</string>
+    <string name="client_secret">JXZ21ncWGgKW3PUHAl0LTm0p</string>
+</resources>
